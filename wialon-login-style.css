@@ -10,7 +10,13 @@ body {
     padding: 2rem 0;
 }
 
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .form-container {
-    max-width: 400px;
+    width: 400px;
     border-radius: 10px;
 }
