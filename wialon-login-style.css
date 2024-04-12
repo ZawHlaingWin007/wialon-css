@@ -3,7 +3,6 @@ body {
 }
 
 .permissions-container, .footer, .header {
-    /* display: none; */
     background-image: url("http://206.189.148.65/dashboard/assets/images/MMIOT_White.png") !important;
 }
 
