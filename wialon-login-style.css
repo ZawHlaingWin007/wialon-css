@@ -2,8 +2,12 @@ body {
     background-color: #112955;
 }
 
-.permissions-container, .footer, .header {
+.header {
     background-image: url("http://206.189.148.65/dashboard/assets/images/MMIOT_White.png") !important;
+}
+
+.permissions-container, .footer {
+    display: none;
 }
 
 .wrapper {
