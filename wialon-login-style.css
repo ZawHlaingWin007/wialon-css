@@ -4,6 +4,8 @@ body {
 
 .header {
     background-image: url("http://206.189.148.65/dashboard/assets/images/MMIOT_White.png") !important;
+    background-size: contain;
+    background-position: center center;
 }
 
 .permissions-container, .footer {
